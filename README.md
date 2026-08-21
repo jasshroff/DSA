@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jasshroff/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jasshroff/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jasshroff/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/jasshroff/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jasshroff/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jasshroff/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/jasshroff/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jasshroff/DSA/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/jasshroff/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
