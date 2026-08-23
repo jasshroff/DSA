@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jasshroff/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/jasshroff/DSA/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
